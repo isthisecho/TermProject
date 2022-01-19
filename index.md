@@ -11,3 +11,16 @@ Instructors will be able to upload education materials such as videos, documents
 In addition, There will be online and offline quizzes to determine understanding levels of students. According to these outcomes, ML .Net based artificial intelligence facility will suggest specified education materials which contain missing parts about lectures. At the end of the day, Instructors will get the ability profile of their students.
 
 Moreover, we are planning to add gamified materials such as leaderboards for competitions or badges to drain the attention of students.
+
+
+High Level Design Report:
+https://docdro.id/CIZ5Xry
+
+Project Specification Report:
+https://docdro.id/GeiZAXu
+
+Mockups:
+https://docdro.id/Vxt3Q1r
+
+Anaysis Report:
+https://docdro.id/Yq3Bb7u
