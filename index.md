@@ -13,14 +13,15 @@ In addition, There will be online and offline quizzes to determine understanding
 Moreover, we are planning to add gamified materials such as leaderboards for competitions or badges to drain the attention of students.
 
 
-High Level Design Report:
-https://docdro.id/CIZ5Xry
 
-Project Specification Report:
-https://docdro.id/GeiZAXu
+<a href="https://docdro.id/CIZ5Xry"> High Level Design Report </a>
 
-Mockups:
-https://docdro.id/Vxt3Q1r
 
-Anaysis Report:
-https://docdro.id/Yq3Bb7u
+<a href="https://docdro.id/GeiZAXu"> Project Specification Report </a>
+
+
+<a href="https://docdro.id/Vxt3Q1r"> Mockups </a>
+
+
+<a href="https://docdro.id/Yq3Bb7u"> Anaysis Report </a>
+
