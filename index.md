@@ -14,14 +14,20 @@ Moreover, we are planning to add gamified materials such as leaderboards for com
 
 
 
-<a href="https://docdro.id/CIZ5Xry"> High Level Design Report </a>
+<a href="https://isthisecho.github.io/TermProject/ProjectSpecReport.pdf"> Project Specification Report </a>
 
 
-<a href="https://docdro.id/GeiZAXu"> Project Specification Report </a>
+<a href="https://isthisecho.github.io/TermProject/AnalysisReport.pdf"> Anaysis Report </a>
 
 
-<a href="https://docdro.id/Vxt3Q1r"> Mockups </a>
+<a href="https://isthisecho.github.io/TermProject/HighLevelDesignReport.pdf"> High Level Design Report </a>
 
 
-<a href="https://docdro.id/Yq3Bb7u"> Anaysis Report </a>
+<a href="https://isthisecho.github.io/TermProject/LowLevelDesignReport.pdf"> Low Level Design Report </a>
+
+
+<a href="https://isthisecho.github.io/TermProject/TestPlanReport.pdf"> Test Plan Report </a>
+
+
+<a href="https://isthisecho.github.io/TermProject/FinalReport.pdf"> Final Report </a>
 
