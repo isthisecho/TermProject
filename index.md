@@ -12,7 +12,7 @@ In addition, There will be online and offline quizzes to determine understanding
 
 Moreover, we are planning to add gamified materials such as leaderboards for competitions or badges to drain the attention of students.
 
-
+<h3> Reports </h3>
 
 <a href="https://isthisecho.github.io/TermProject/ProjectSpecReport.pdf"> Project Specification Report </a>
 
@@ -30,4 +30,22 @@ Moreover, we are planning to add gamified materials such as leaderboards for com
 
 
 <a href="https://isthisecho.github.io/TermProject/FinalReport.pdf"> Final Report </a>
+
+
+<h3> Source Codes </h3>
+
+<h4> Website And Mobile App Part </h4>
+
+<a href="https://github.com/isthisecho/AdminWebsite"> Admin Website Written by React</a>
+
+<a href="https://github.com/Furkan-init/senior-mobile"> Mobile Application Written by React Native </a>
+
+<h4> Machine Learning Part </h4>
+
+<a href="https://github.com/yasemindirek/DataGenerator"> Data Generator For Machine Learning </a>
+
+<a href="https://github.com/yasemindirek/KMeansClustering"> K Means Clustering For Machine Learning </a>
+
+<a href="https://github.com/yasemindirek/StudentClassification"> Student Classification For Machine Learning </a>
+
 
